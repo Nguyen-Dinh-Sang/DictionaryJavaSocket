@@ -1,0 +1,7 @@
+school;trường học
+phone;điện thoại
+coffee;cà phê
+milk;sữa
+việt;anh
+sugar;đường
+food;đồ ăn
